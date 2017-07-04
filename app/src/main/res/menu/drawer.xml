@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_recycle"
+        android:icon="@drawable/realizar_entrega"
+        android:title="@string/register_delivery"/>
+    <item
+        android:id="@+id/action_account"
+        android:icon="@drawable/perfil"
+        android:title="@string/my_account"/>
+</menu>
